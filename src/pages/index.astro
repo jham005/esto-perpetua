@@ -1,10 +1,5 @@
 ---
-import Image from "astro/components/Image.astro";
-import '@fontsource/libre-caslon-text';
 import '../styles/globals.css'
-import image1 from '../images/Ironheart-pan-rear.jpg';
-import image2 from '../images/IronheartpanLaingsDC2.jpg';
-import image3 from '../images/IronheartpanonAgaJune2022.jpg';
 
 const sections = Object.values(import.meta.glob('../contents/*.md', { eager: true }));
 ---
@@ -24,7 +19,6 @@ const sections = Object.values(import.meta.glob('../contents/*.md', { eager: tru
 			{sections.map((section, i) =>
 				<li><a href={`#section${i}`}>{section.frontmatter.title}</a></li>)
 			}
-			<li><a href="#images">Images of the fry pan</a></li>
 		</ul>
 
 		{sections.map((section, i) =>
@@ -33,19 +27,5 @@ const sections = Object.values(import.meta.glob('../contents/*.md', { eager: tru
 				<div set:html={section.compiledContent()} />
 			</section>)
 		}
-
-		<section id="images">
-			<h2>Some images of the fry pan</h2>
-			{[image1, image2, image3].map(image =>
-				<Image
-					src={image}
-					alt=""
-				  decoding="async"
-				  loading="lazy"
-				  widths={[240, 540, 720, image.width]}
-					sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${image.width}px`}
-  			 />
-			)}
-		</section>
 	</body>
 </html>

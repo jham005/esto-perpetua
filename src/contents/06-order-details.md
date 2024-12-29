@@ -4,6 +4,8 @@ title: Order contact details
 
 In sagittis mauris bibendum dui pharetra iaculis. Nunc at erat at nibh venenatis euismod. Sed iaculis odio id felis varius pellentesque. In tempus sapien mauris, eget scelerisque ipsum rhoncus a. Nulla sed porta ante. Nulla facilisi. Morbi non tincidunt ipsum. Integer aliquam, sem at bibendum dapibus, nisl elit tempor ex, vel tincidunt tellus justo quis arcu. Aenean id fringilla leo, eu posuere lectus. Fusce sit amet ultricies ex. Sed ac dapibus leo, non volutpat orci.
 
+![Sausages and egg](../images/IronheartpanonAgaJune2022.jpg)
+
 Nulla in sem auctor erat posuere laoreet. Donec eu porttitor orci, id varius lectus. Sed eget augue at elit aliquet placerat vitae a ex. Aliquam feugiat egestas turpis, ac commodo ipsum consectetur vitae. Ut cursus rhoncus lacus, sed tempor purus convallis id. Ut a dictum mauris. Mauris nec accumsan orci.
 
 Vivamus laoreet consequat consectetur. Nullam et neque eu mi vestibulum sodales at at odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi pretium hendrerit magna sit amet ullamcorper. Proin eleifend ultrices purus quis sodales. Donec ultrices nulla a ligula tempor, a auctor velit pulvinar. Etiam pulvinar nulla a blandit congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
