@@ -1,31 +1,41 @@
 ---
-import '../styles/globals.css'
-
-const sections = Object.values(import.meta.glob('../contents/*.md', { eager: true }));
+import "../styles/globals.css";
+import type { MarkdownInstance } from "astro";
+const sections = Object.values(
+  import.meta.glob<MarkdownInstance<{ title: string }>>("../contents/*.md", {
+    eager: true,
+  })
+);
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Esto Perpetua</title>
-	</head>
-	<body>
-		<h1>Esto Perpetua: a summary history of the cast iron fry pan</h1>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Esto Perpetua</title>
+  </head>
+  <body>
+    <h1>Esto Perpetua: a summary history of the cast iron fry pan</h1>
 
-		<ul>
-			{sections.map((section, i) =>
-				<li><a href={`#section${i}`}>{section.frontmatter.title}</a></li>)
-			}
-		</ul>
+    <ul>
+      {
+        sections.map((section, i) => (
+          <li>
+            <a href={`#section${i}`}>{section.frontmatter.title}</a>
+          </li>
+        ))
+      }
+    </ul>
 
-		{sections.map((section, i) =>
-			<section id={`section${i}`}>
-				<h2>{section.frontmatter.title}</h2>
-				<div set:html={section.compiledContent()} />
-			</section>)
-		}
-	</body>
+    {
+      sections.map((section, i) => (
+        <section id={`section${i}`}>
+          <h2>{section.frontmatter.title}</h2>
+          <div set:html={section.compiledContent()} />
+        </section>
+      ))
+    }
+  </body>
 </html>
