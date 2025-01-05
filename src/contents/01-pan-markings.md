@@ -2,7 +2,7 @@
 title: Pan markings
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis quam arcu. Pellentesque ullamcorper viverra tempor. Nulla erat lorem, ultrices sit amet gravida eu, consectetur dignissim tortor. Vestibulum consequat nunc sit amet tellus ultrices, venenatis vulputate felis molestie. Fusce quis elit pulvinar, pretium metus id, vehicula lorem. Curabitur eu purus nec lectus ultricies auctor vel feugiat ligula. Nullam nec est sed libero venenatis pretium. Quisque vel molestie diam. Phasellus at urna id risus ultrices dapibus. Fusce finibus tempor felis ut hendrerit. Vivamus vulputate mauris libero.
+Welcome to the Ironheart Frypan website
 
 ![Pan markings](../images/Ironheart-pan-rear.jpg)
 
