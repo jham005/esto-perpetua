@@ -2,4 +2,4 @@
 title: Ironhearts
 ---
 
-The Ironhearts of Irontow: A regeneration for all ages.
+The Ironhearts of Irontown: A regeneration for all ages.
