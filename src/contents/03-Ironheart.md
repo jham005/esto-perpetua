@@ -1,9 +1,9 @@
 ---
 title: Ironheart, collective contribution Falkirk area foundries made to improving public health
 ---
-Although Carron Company was the first cast iron foundry in the Falkirk area it was consequently the source of ambitious engineers who would open their own foundries turn both Falkirk into a national hub for cast iron lighty castings, used for domestic improvement, but also radiate innovative engineers across the world. Carron Co led the Industrial Revolution and was in 1759 the first planned large scale modern technical iron foundry in the world. Consequently their engineers were harbingers of new ideas and with then rare skills and experience which were in great demand.
+Although Carron Company was the first cast iron foundry in the Falkirk area it was consequently the source of ambitious engineers who would open their own foundries turn both Falkirk into a national hub for cast iron lighty castings, used for domestic improvement, but also radiate innovative engineers across the world. Carron Co led the Industrial Revolution and was in 1759 the first planned large scale modern technical iron foundry in the world. Consequently their engineers were at the cutting edge of new ideas, and rare skills and experience which were in great demand in other countries.
 
-
+Carron Co's ambitious irnfounders would fairly quickly be sought by people who wanted to establsih the latest engineering technology in their own country, initially this was in Russia and Eastern Europe c1780-1830. However in the Falkirk area Carron Co had no competitors for 45 years, until George Sherriff, one of those engineers, returned with wealth from Russia and established, in 1804, the Dalderse Foundry, sited by newly completed the Forth & Clyde canal, as Carron Co's first local competitor.   
 
 Vestibulum at nisl interdum, lobortis magna consectetur, euismod ex. Nulla gravida elit tortor, id pulvinar velit rhoncus eget. Integer in ullamcorper quam, vitae aliquam purus. Vestibulum libero dolor, sodales a enim at, tincidunt varius enim. Nulla quis vestibulum odio. Donec ligula lacus, pellentesque non massa sit amet, mollis porttitor elit. Aliquam eleifend, nunc fermentum porta tincidunt, quam lacus euismod velit, ac tempor elit nunc sit amet lectus. Donec sit amet purus aliquam, dapibus lacus a, eleifend ante.
 
