@@ -2,7 +2,8 @@
 title: Order contact details
 ---
 
-In sagittis mauris bibendum dui pharetra iaculis. Nunc at erat at nibh venenatis euismod. Sed iaculis odio id felis varius pellentesque. In tempus sapien mauris, eget scelerisque ipsum rhoncus a. Nulla sed porta ante. Nulla facilisi. Morbi non tincidunt ipsum. Integer aliquam, sem at bibendum dapibus, nisl elit tempor ex, vel tincidunt tellus justo quis arcu. Aenean id fringilla leo, eu posuere lectus. Fusce sit amet ultricies ex. Sed ac dapibus leo, non volutpat orci.
+For furtehr info contact Dr Duncan Comrie via email greensandart@gmail.com
+
 
 ![Sausages and egg](../images/IronheartpanonAgaJune2022.jpg)
 
