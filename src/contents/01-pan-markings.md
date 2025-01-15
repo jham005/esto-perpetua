@@ -6,7 +6,7 @@ Welcome to the Ironheart Frypan website
 
 ![Pan markings](../images/Ironheart-pan-rear.jpg)
 
-Ironheart is the collective term for the achievements of the Falkirk area foundries and their International influence. Th ecast iron frying pan was one of teh earliest products made in the Falkirk area by Carron Co from 1759.          
+Ironheart is the collective term for the achievements of the Falkirk area foundries and their International influence. The cast iron frying pan was one of the earliest products made in the Falkirk area by Carron Co from 1759. Carron Co was the first Ironheart foundry - a leader of the world Industrial Revolution and would be the source of many generations of highly skilled, ambitious and motivated engineers who would both turn the Falkirk area into a world hub of innovative light cast iron products and educate and inpire foundry skills throughout the world.           
 
 Duis volutpat libero eget libero efficitur, a iaculis lacus aliquet. Sed metus turpis, elementum sit amet nisl sed, rhoncus mattis leo. Maecenas malesuada eget risus vel ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Nam vestibulum scelerisque ultricies. In hac habitasse platea dictumst. Etiam in sem a lorem posuere aliquet nec sed tortor. Integer at sodales lacus. Cras elementum, eros ut vehicula interdum, nisi magna mollis lorem, a aliquet purus tortor eget neque. Duis in suscipit augue, et malesuada velit.
 
