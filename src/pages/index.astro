@@ -19,15 +19,18 @@ const sections = Object.values(
   <body>
     <h1>Esto Perpetua: a summary history of the cast iron fry pan</h1>
 
-    <ul>
-      {
-        sections.map((section, i) => (
-          <li>
-            <a href={`#section${i}`}>{section.frontmatter.title}</a>
-          </li>
-        ))
-      }
-    </ul>
+    <section class="contents">
+      <h2>Contents</h2>
+      <ul>
+        {
+          sections.map((section, i) => (
+            <li>
+              <a href={`#section${i}`}>{section.frontmatter.title}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
 
     {
       sections.map((section, i) => (

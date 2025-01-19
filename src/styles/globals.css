@@ -1,4 +1,8 @@
 @import "@fontsource/libre-caslon-text";
+@font-face {
+  font-family: caslonLeading;
+  src: url(/fonts/Caslon_Calligraphic.woff);
+}
 
 html {
   font-family: "Libre Caslon Text", serif;
@@ -11,6 +15,31 @@ body {
   max-width: 72ch;
   padding: 1rem;
   line-height: 1.5;
+  text-align: justify;
+  text-rendering: optimizeLegibility;
+}
+
+.contents {
+  width: auto;
+  line-height: 1.2;
+  padding: 1em 2em;
+  margin: 0 0 0.5em 0.5em;
+}
+  
+.contents ul>li {
+  text-transform: uppercase;
+  margin: 0 0 .6em 0;
+  list-style-type: none;
+}
+  
+.contents a {
+  color:rgb(158, 24, 38);
+}
+
+p:first-child:first-letter {
+  color: #903; 
+  font-family: caslonLeading;
+  initial-letter: 2;
 }
 
 h1 {
@@ -26,6 +55,7 @@ h5,
 h6 {
   font-size: 2rem;
   color: rgba(74, 72, 63, 0.7);
+  text-align: left;
 }
 
 img {
