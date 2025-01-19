@@ -1,5 +1,6 @@
 ---
 title: Pan markings
+float: right
 ---
 
 Welcome to the Ironheart website: Falkirk Made Cast Iron Frypans, bathtubs, Robert Burns Heads etc...

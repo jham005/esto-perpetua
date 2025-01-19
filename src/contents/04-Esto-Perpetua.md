@@ -1,5 +1,5 @@
 ---
-title: Esto Perpetua, Carron Co's motto, to live forever
+title: Esto Perpetua, Carron Co.'s motto, to live forever
 ---
 
 Esto Perpetua, it seems a rather grandiose claim that Carron Company should adopt as its motto to live forever in 1773. It was a fashion then to use Latin mottos, James Watt used 'Ingenio et Labore' which complements Carron Co. as both achievers have not been forgotten. James Watt did also develop his early experiments on the steam engine at Carron Co. in the 1760s. Cast iron has an inbuilt longevity being inherently rust resistant, it should last a very long time, other reasons than longevity ensure its abandonment e.g., fashion, accumulated age patina, light weight alternatives etc.

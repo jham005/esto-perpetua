@@ -1,7 +1,8 @@
 @import "@fontsource/libre-caslon-text";
 @font-face {
-  font-family: caslonLeading;
+  font-family: dropCaps;
   src: url(/fonts/Caslon_Calligraphic.woff);
+  size-adjust: 90%
 }
 
 html {
@@ -10,56 +11,86 @@ html {
 }
 
 body {
-  margin: 0 auto;
+  --header-colour: rgba(12, 11, 7, 0.7);
+  --toc-colour: rgb(158, 24, 38);
+  margin: 0 auto 0 auto;
   width: 100%;
-  max-width: 72ch;
+  max-width: 66ch;
   padding: 1rem;
   line-height: 1.5;
   text-align: justify;
   text-rendering: optimizeLegibility;
+  hyphens: auto;
 }
 
-.contents {
-  width: auto;
+.toc {
   line-height: 1.2;
   padding: 1em 2em;
-  margin: 0 0 0.5em 0.5em;
+  margin: 0 0.5em 0 0.5em;
 }
-  
-.contents ul>li {
+
+.toc h2 {
+  text-align: center;
+}
+
+.toc ul>li {
   text-transform: uppercase;
   margin: 0 0 .6em 0;
+  text-align: center;
   list-style-type: none;
 }
   
-.contents a {
-  color:rgb(158, 24, 38);
+.toc a {
+  color: var(--toc-colour);
 }
 
 p:first-child:first-letter {
-  color: #903; 
-  font-family: caslonLeading;
+  color: var(--toc-colour);
+  font-family: dropCaps;
   initial-letter: 2;
 }
 
 h1 {
   text-align: center;
   font-size: 2.5rem;
-  color: rgba(12, 11, 7, 0.7);
+  color: var(--header-colour);
+  margin: 1.6em 0 1.7em 0;
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-size: 2rem;
-  color: rgba(74, 72, 63, 0.7);
+h2, h3 {
+  width: 40ch;
+  color: var(--header-colour);
   text-align: left;
 }
 
+h2 {
+  font-size: 1.4rem;
+  margin: 1.6em 0 1em 0;
+  clear: right;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin: .5em 0 0 0;
+  clear: right;
+}
+
 img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
+  width: 80%;
+  height: 80%;
+  margin: 2em 0 1em 0;
+}
+
+.left img {
+  width: 40%;
+  height: 40%;
+  float: left;
+  margin: 1em;
+}
+
+.right img {
+  width: 40%;
+  height: 40%;
+  float: right;
+  margin: 1em;
 }
