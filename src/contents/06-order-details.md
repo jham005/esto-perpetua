@@ -2,15 +2,6 @@
 title: Order contact details
 ---
 
-For furtehr info contact Dr Duncan Comrie via email greensandart@gmail.com
-
+For further info contact Dr Duncan Comrie via email <greensandart@gmail.com>
 
 ![Sausages and egg](../images/IronheartpanonAgaJune2022.jpg)
-
-Nulla in sem auctor erat posuere laoreet. Donec eu porttitor orci, id varius lectus. Sed eget augue at elit aliquet placerat vitae a ex. Aliquam feugiat egestas turpis, ac commodo ipsum consectetur vitae. Ut cursus rhoncus lacus, sed tempor purus convallis id. Ut a dictum mauris. Mauris nec accumsan orci.
-
-Vivamus laoreet consequat consectetur. Nullam et neque eu mi vestibulum sodales at at odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi pretium hendrerit magna sit amet ullamcorper. Proin eleifend ultrices purus quis sodales. Donec ultrices nulla a ligula tempor, a auctor velit pulvinar. Etiam pulvinar nulla a blandit congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Nam feugiat mauris a urna pulvinar, at varius magna varius. Suspendisse non placerat metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum tristique scelerisque mauris. Pellentesque vitae eros velit. Pellentesque vitae augue velit. Pellentesque vehicula velit eu tempus blandit. Suspendisse sed nunc tincidunt, auctor felis eget, auctor nunc. Integer at mauris quis mauris facilisis ornare interdum varius mi. Praesent pellentesque, orci non aliquet gravida, diam massa pharetra turpis, nec auctor nibh erat ac ante. Vestibulum at tortor vestibulum, faucibus nulla quis, ullamcorper mi. Donec in porttitor purus, ac posuere augue. Nunc neque erat, pharetra sit amet placerat sed, vulputate ut justo. Pellentesque ac hendrerit magna, eget dapibus ex. Curabitur quis enim nunc.
-
-In ante sapien, bibendum ut arcu at, vestibulum finibus erat. Proin eget lectus sit amet nisl eleifend sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lectus lorem, pellentesque non congue nec, ultrices sit amet augue. Cras eget erat ac nulla posuere mattis quis in ipsum. Cras accumsan erat quis molestie lobortis. Suspendisse ac pharetra mi. Quisque blandit leo sit amet libero venenatis, nec congue neque ultrices. Cras sit amet lorem neque. Aliquam vulputate sit amet magna laoreet ultricies. Nulla ultrices congue quam vel condimentum. Praesent tristique viverra sapien, sed accumsan arcu ultricies sit amet. Suspendisse lorem mauris, vehicula vel neque ac, consequat sodales eros. Cras fringilla, neque non posuere porta, elit nunc condimentum nibh, id sodales sapien neque ut felis. Morbi semper velit a euismod accumsan. Sed bibendum maximus interdum.
