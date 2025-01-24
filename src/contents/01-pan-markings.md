@@ -6,8 +6,8 @@ float: right
 Welcome to the Ironheart website: Falkirk Made Cast Iron Frypans, bathtubs, Robert Burns Heads etc...
 
 ![Pan markings](../images/Ironheart-pan-rear.jpg)
-
-Ironheart is the collective term  for the achievements of the Falkirk area foundries and their International influence. A term coined by Falkirk Made Friends to unite the many solid achievements of the some sixty Falkirk area foundries. The cast iron frying pan was one of the earliest products made in the Falkirk area by Carron Co. from 1759.
+This website has the purpose of promoting the acheivemnents of Ironheart and stimulating interest in an industry which still has a purpose.
+Ironheart is the collective term  for the achievements of the Falkirk area foundries and their International influence. A term coined by Falkirk Made Friends to unite the many solid achievements of the some sixty Falkirk area foundries. The cast iron frying pan was one of the earliest products made in the Falkirk area by Carron Co. from 1759. 
 
 Carron Co. was the first Ironheart foundry - one of the first planned modern large scale foundry in the the world Industrial Revolution - and would, as it was the original innovator of new technology, be the source of many generations of highly skilled, ambitious and motivated engineers who would both turn the Falkirk area into a world hub of innovative light cast iron products and educate and inspire foundry skills throughout the world. Initially sending skilled ironfounders to assist Northern European countries to establish iron foundries and other engineering projects, see online article Carron Co & Eastern Europe by Geoff Bailey by Falkirk Local History club. Later, a world wide influence, eg Sir Robert Gibson 1863-1934 - maker the Lux foundry solid fuel cooker - in Melbourne, Australia.
 
