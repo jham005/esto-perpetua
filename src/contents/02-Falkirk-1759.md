@@ -12,4 +12,5 @@ Image of Robert Burns Kitchen range made by Carron Co. c1790.
 
 Bathtubs
 Burns' heads
-ironheart an the Ironhearts of Irontown.
+
+![Ironheart and the Ironhearts of Irontown](Ironhearts.jpg)

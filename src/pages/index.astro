@@ -2,7 +2,7 @@
 import "../styles/globals.css";
 import type { MarkdownInstance } from "astro";
 const sections = Object.values(
-  import.meta.glob<MarkdownInstance<{ title: string, float: string }>>("../contents/*.md", {
+  import.meta.glob<MarkdownInstance<{ title: string }>>("../contents/*.md", {
     eager: true,
   })
 );
@@ -36,7 +36,7 @@ const sections = Object.values(
       sections.map((section, i) => (
         <section id={`section${i}`}>
           <h2>{section.frontmatter.title}</h2>
-          <div set:html={section.compiledContent()} class={section.frontmatter.float}/>
+          <div set:html={section.compiledContent()}/>
         </section>
       ))
     }

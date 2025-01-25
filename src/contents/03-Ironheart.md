@@ -12,3 +12,5 @@ Ease of transportation as also an attraction, many were initially based along th
 Two foundries remain in Ironheart, Ballantine Castings in Bo'ness and Drysdale Brothers in Stenhousemuir. Ballantines are a general foundry and have made decorative castings for Big Ben and the Houses of Parliament. Drysdales has its origins in Weir Pumps which now independently specialises in high quality bronze castings. Slightly further afield are Laing's foundry in Lochgelly a long established family concern, which enthusiastically support FMF by making for us frypans, bathtubs and the Burn's heads from Tam O'Shanter. Others include another family business, Archibald Young's in Kirkintilloch, a town which was also a concentrated hub of iron foundries, and the ultra modern Taylor's of Hamilton, both are general suppliers to the engineering industry.
 
 examples in pics; ranges cookers, bathtubs, drainage.
+
+![Mini-bathtubs](AIBathtubsx6.jpg)

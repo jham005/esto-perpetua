@@ -1,11 +1,10 @@
 ---
 title: The process of making a new version
-float: right
 ---
 
 The romantic ideal of reconnecting 2021 - when the idea of casting a pan was first discussed - with 1759 by making a cast iron frypan seemed like a solid way of celebrating Ironheart the collective achievements of the Falkirk area foundries and their international significance. A number of factors encouraged further interest: The cast iron frypan can also still be used today, it suits all types of cookers. It has no potentially unpleasant coatings; a patina, a non-stick surface, called seasoning layers of cooking oil built up with use; is also passed down the generations as it never wears out; it can be made from recycled iron.
 
-![Forging a fry pan](../images/IronheartpanLaingsDC2.jpg)
+![Forging a fry pan](IronheartpanLaingsDC2.jpg "R")
 
 How hard is it to make a cast iron frypan? Initially it seemed simple just use an old pan as a pattern and get a local foundry to cast it. However the art of making thin castings is a hard won skill. At one time Falkirk specialised in what is called light castings, e.g. thin walled cast iron products like pots, pans, kettles, drain pipes, cooking ranges and bathtubs. Finding a foundry who was prepared to spend time reacquiring this skill was to prove a problem.
 
