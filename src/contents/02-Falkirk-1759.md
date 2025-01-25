@@ -8,8 +8,11 @@ In Scotland, until the rise of Carron Co, girdle making had been a monopoly of t
 
 The honours for developing engineering innovation is claimed by the Shropshire based Coalbrookdale foundry, from 1709 they were able to use coal as fuel to make cast iron for pot and pan making, but on a limited scale. It was from this foundry that Carron Co. recruited its iron founders to start its new ambitious scale of production in Falkirk. Thus a revolution began, one thing led to another a frypan led to a better way of heating it which led to the birth of the cast iron cooking range which then became a search for fuel efficiency and the development of controlled heat for hot water and home warming.  
 
-Image of Robert Burns Kitchen range made by Carron Co. c1790.
+One of the earliest known examples of a cast iron cooking range still celebrated is the one in Robert Burn's framhouse at Ellisland near Dumfries. This range was brought from Carron works and installed c1890. It was the era of Burns in a dilemma about his future, either the independent farmer and dandy ploughman - see Paisley Burns memorial for that style - or working for the government as an exciseman aka tax collector. The farmhouse was built with funds supplied by the landowner Patrick Miller, who was clsoely associated with Carron Co both as an investment adviser and an inventor. Because of his experience of piracy on teh high seas Miller contributed to the the design of the Carronade as a defensive weapon; he also commissioned the construction of the first working steam powered paddle ship 1788, the engine parts were made at Carron Co. It is possible that Miller had some design ideas for kitchen ranges and may have had a hand in teh design of the new innovative all cast iron range and oven fitted at Ellisland. The picture is of the present range and oven, but only the oven is likely the original.  
 
+Image Paisley Burns statue
+Image of Robert Burns Kitchen range made by Carron Co. c1790.
+Video clip of Tam and Phoenix
 Bathtubs
 Burns' heads
 
