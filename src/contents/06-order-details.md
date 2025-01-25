@@ -1,10 +1,17 @@
 ---
 title: Order contact details
 ---
-For furthe rinfo on the Falkirk area foundries see the
-Falkirk Local History Ass website
+For further info on the Falkirk area foundries see the
+Falkirk Local History Ass website:
+Facebook page: Falkirk Made Friends & Cast Iron Telephone Box Regeneration. 
 The Great Places Project Our Stories Website.
-Two History books on Carron Co 
+Two History books on Carron Co:
+Carron Co by RH Campbell 1961.
+Where Iron Runs Like water, A new History of Carron Iron Works 1759-1982 by Brian Watters, 1998.
+Falkirk Museum at Callendar House, has a iron small display.
+The Old Kirk Museum in Kirkintilloch has a good iron display.
+A rare Carron Co K2 phone kiosk is on exhibit at the Glasgow Transport Museum.
+
 For further info contact Dr Duncan Comrie via email <greensandart@gmail.com>
 
 ![Sausages and egg](IronheartpanonAgaJune2022.jpg "L")
@@ -17,4 +24,5 @@ The ironhearts booklet is £10.00
 A small number of Ironheart Legends 2025 calendars are available at £10.00 each.
 Collection TBA in Falkirk.
 Post cost is extra.
-Image of Ironheart legends calendar
+
+2 images of Ironheart legends calendar
