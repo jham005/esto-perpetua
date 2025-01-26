@@ -10,6 +10,7 @@ export function remarkImageTransformer() {
       const align =
         node.title == "R" ? "right" : node.title == "L" ? "left" : null;
       if (align) {
+        delete node.title;
         if (!node.data) node.data = {};
         node.data.hProperties = Object.assign({}, node.data.hProperties, {
           className: align,
