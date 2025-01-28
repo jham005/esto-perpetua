@@ -49,7 +49,7 @@ The costs for the renovation of the three adopted K6s were supported by Falkirk 
 
 ![Antonine K6](antonineK6.jpg)
 
-Most Phone kioks will have its maker's marks either inside or on the rear, sometimes both, Bratt Colbran's amrks are unknown, but the most common are Carron Co Stirlingshire or post 1975 Falkirk, & internally 'CCA'; Walter Macfarlane's Saracen Foundry Glasgow, 'MFA' or 'S'; The Lion Foundry Kirkintilloch, 'LFA'. McDowall steven, London & Falkirk. Internal marks unknwon 
+Most Phone kioks will have its maker's marks either inside or on the rear, sometimes both, Bratt Colbran's marks are unknown, but the most common are Carron Co Stirlingshire or post 1975 Falkirk, & internally 'CCA'; Walter Macfarlane's Saracen Foundry Glasgow, 'MFA' or 'S'; The Lion Foundry Kirkintilloch, 'LFA'. McDowall steven, London & Falkirk. Internal marks unknwon 
 Image badges:
 Lion, Saracen, Macdowall Steven.
 Different types of Carron Co badge:
