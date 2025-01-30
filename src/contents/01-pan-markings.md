@@ -53,7 +53,7 @@ The costs for the renovation of the three adopted K6s were supported by Falkirk 
 
 ![Ladysmill K6](LadysmillK6tTimeKiosk2DCpic1.JPG)
 
-![Tryst K6](TrysK6FMFsign.jpg) a preFMF image ,change to most recent display
+![Tryst K6](TrysK6FMFsign.jpg) a preFMF image ,change to most recent display TrystK6A
 
 ![Antonine K6](antonineK6.jpg)
 
