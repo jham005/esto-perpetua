@@ -29,23 +29,31 @@ The early campaigns of FMF mainly about saving as many as possible of the cast i
 
 Image of Ladysmill K6 prior to regeneration. 
 
-The Ladysmill K6 was first to get a makeover in March April 20221. Fortunately the kiosk windows had been considerately replaced by BT just before adoption, so our main concern was with cleaning it, soem minor repairs, some painting and installing a relevant graphic display which informed the public about the area from an iron perpsective. These included the MacLellan's Forth bridge link, who also are involved in the origin of the Barr's soft drink Iron Bru, a Falkirk origin company. The other forgotten history was that the first general public hospital opened in 1889 in the area. The K6 had also provided a public health role by providing the 999 emergency service. These subjects were used as the basis of original drawings by Richard Duffy, a member of FMF. 
-The Ladysmill K6 Leaflet  
+The Ladysmill K6 was first to get a makeover in March April 20221. Fortunately the kiosk windows had been considerately replaced by BT just before adoption, so our main concern was with cleaning it, some minor repairs, some painting and installing a relevant graphic display which informed the public about the area from an iron perpsective. These included the MacLellan's Forth bridge link, who also are involved in the origin of the Barr's soft drink Iron Bru, a Falkirk origin company. The other forgotten history was that the first general public hospital opened in 1889 in the area. The K6 had also provided a public health role by providing the 999 emergency service. These subjects were used as the basis of original drawings by Richard Duffy, a member of FMF. 
+The artwork on the Ladysmill K6 Leaflet can be seen on the leaflet made by Richard Duffy  
 2 images: Ladysmill K6 leaflets
 
-image of King St aka Tryst K6
+image of King St aka Tryst K6 pre FMF adoption
 
-The next regeneration was the King St Stenhousemuir K6 renamed The Tryst K6, to celebrate the role the area had as a cattle market. The opportunity to work with a local school led to some art students at Larbert High School preparing artwork for display on one side of the K6, images concerned with the Bruce Obelisk and Larbert made cooking stoves and cookers. Th eother two sides were 1. on the subject of the Ironhearts of Irontown story and 2. Celebrating Stenhousemuir related ironfounders. The Tryst K6 was hit by a car in December 2022, only the wooden door was smashed but the driver did not contact FMF. A temporary repair was made and a funding application is with Falkirk Council's Community Choices scheme, 2025, which is an award scheme based on the decision of a successful council ward public vote. 
+The next regeneration was the King St Stenhousemuir K6 renamed The Tryst K6, to celebrate the role the area had as a cattle market. The opportunity to work with a local school led to some art students at Larbert High School preparing artwork for display on one side of the K6, images concerned with the Bruce Obelisk and Larbert made cooking stoves and cookers. The other two sides were 1. on the subject of the Ironhearts of Irontown story and 2. Celebrating Stenhousemuir related ironfounders. 
+
+Image of Tryst K6 with Ricahrd Duffy, the Ironhearts story artwork artist.
+
+The Tryst K6 was hit by a car in December 2022, only the wooden door was smashed but the driver did not contact FMF. A temporary repair was made and a funding application is with Falkirk Council's Community Choices scheme, 2025, which is an award scheme based on the decision of a successful council ward public vote. 
+
+Image of Tryst K6 with smashed door under repair.
+
+Iamage of Callendar Park K6 pre-adoption condition with damaged door.
+
+The K6 adjacent to Paterson tower shop in Callendar Park was renamed the Antonine K6 because it sits on the Roman wall, had a wind damaged broken door frame which was patched up, and the first display was made by an school art group at Graeme High School, which was on display for a year, but the artwork suffered from sun fading and weather damage. This was replaced in 2023 with a new more weatherproof perpex type graphic display created out of photographs of iron related locations in the area, plus the new Ironheart Trail maps.     
 
 image of Callander Park, aka Antonine, K6 with Graeme High School artwork display.
 
-This K6 renamed the Atonine K6 because it sits on the Roman wall, had a wind damaged broken door frame which was patched up, and the first display was made by an art group at Graeme High School. Becasue it was hand mad eteh display suffered from sun fading and weather damage. This was replaced in 2023 with a graphic display created out of photographs of iron related locations in the area, plus the new Ironheart Trail maps.     
-The Callendar park K6
 The costs for the renovation of the three adopted K6s were supported by Falkirk Council Community Schools Award, the Falkirk Great Place scheme and other FMF fund raising. Solid support also came from a local company, Carron Phoenix, which had its origins in the Carron Co sink making division.
 
 ![Ladysmill K6](LadysmillK6tTimeKiosk2DCpic1.JPG)
 
-![Tryst K6](TrysK6FMFsign.jpg)
+![Tryst K6](TrysK6FMFsign.jpg) a preFMF image ,change to most recent display
 
 ![Antonine K6](antonineK6.jpg)
 
