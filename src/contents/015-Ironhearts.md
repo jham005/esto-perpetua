@@ -10,7 +10,7 @@ Starting at 12 o'clock with Callendar House Museum where there is inside many ir
 
 Next walk towards Grangemouth Rd and the Ladysmill K6, which is huddled by the railway bridge, built by MacLellan's in 1935. A Glasgow rail bridge Co. whose thirsty workers inspired the origin of Irn Bru whilst repairing central Station in Glasgow. This firm would also build the approaches to the Forth railway bridge 'made from girders'. Although a more likely origin of the soft drink is related to a Barr's being a local lemonade company, making a non alcoholic drink for thirsty Ironheart foundry workers.
 
-![Ironheart mural](Ironheartironart@FBS.jpg)
+![Ironheart mural](Ironheartironart@FBS.jpg) change to update image
 
 Next is the ironheart mural and iron art sculptures head towards Grahams Rd and at the crossroads with Bainsford Main St cross into Gowan Av. Almost at the end of the road on the building which was formerly the offices of Cockburn's foundry, now Falkirk Brass aka FBS plumbing and bathrooms, is a hand painted wall painting mural which depicts some of the products that were made by the Ironheart foundries, baths, fireplace, cauldron pot, heating stove and Rayburn cooker. The two imaginative bathroom images were designed by school students, nearby just across the Forth & Clyde canal, at St Mungo's High School. The central image is a cheeky Carron Co. Phoenix, based on the 1959 bicentenary image, arising from the cooking pot waving the Esto Perpetua flag, the Latin motto of Carron Co.
 
