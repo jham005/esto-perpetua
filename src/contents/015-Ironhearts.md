@@ -4,15 +4,21 @@ title: "The Ironhearts of Irontown: A regeneration for all ages"
 
 The Ironheart map identifies some of the remaining locations which are associated with the Falkirk area foundries. Many are within walking distance of the start but a complete circuit would measure some 30 miles.
 
-![Ironheart map](../images/Ironheartmap.jpg)
+![Ironheart map](Ironheart-map.jpg)
 
 Starting at 12 o'clock with Callendar House Museum where there is inside many iron related exhibits, and outside some restored cast iron lamp posts, likely made by Macfarlane's Saracen foundry, of Glasgow, and Bo'ness Iron Co. A short walk away is the Antonine K6, so named as it sits on the Roman wall, along with a series of scenic tower blocks and next to the friendly corner shop at Paterson Tower. A regenerated K6 phone kiosk, c1960s, now a Time Kiosk displaying images related to Ironheart achievements eg: people, products and places. Now head towards Falkirk the High St, to find the celebratory painted Robert Burns wall medallion, designed and made in cast iron at the Grahamston foundry c1890. Burns spent one night staying at the Inn here and the legend is he left a poem etched into the window glass.  
 
 Next walk towards Grangemouth Rd and the Ladysmill K6, which is huddled by the railway bridge, built by MacLellan's in 1935. A Glasgow rail bridge Co. whose thirsty workers inspired the origin of Irn Bru whilst repairing central Station in Glasgow. This firm would also build the approaches to the Forth railway bridge 'made from girders'. Although a more likely origin of the soft drink is related to a Barr's being a local lemonade company, making a non alcoholic drink for thirsty Ironheart foundry workers.
 
-![Ironheart mural](Ironheartironart@FBS.jpg) change to update image original of mural painting process:
-Image of Cockburn mural chanches over week
-Image of Ironheart mural 31.1.25 
+![Ironheart mural](Ironheart-iron-art.jpg)
+
+<!--
+<video width="640" height="360" controls="controls">
+  <source src="../images/Cockburn-Mural.mp4" type="video/mp4">
+</video>
+-->
+
+![Ironheart mural in January 2025](Ironheart-mural-2025-01-31.jpg)
 
 Next is the ironheart mural and iron art sculptures head towards Grahams Rd and at the crossroads with Bainsford Main St cross into Gowan Av. Almost at the end of the road on the building which was formerly the offices of Cockburn's foundry, now Falkirk Brass aka FBS plumbing and bathrooms, is a hand painted wall painting mural which depicts some of the products that were made by the Ironheart foundries, baths, fireplace, cauldron pot, heating stove and Rayburn cooker. The two imaginative bathroom images were designed by school students, nearby just across the Forth & Clyde canal, at St Mungo's High School. The central image is a cheeky Carron Co. Phoenix, based on the 1959 bicentenary image, arising from the cooking pot waving the Esto Perpetua flag, the Latin motto of Carron Co.
 
@@ -22,7 +28,7 @@ The mini cast iron bathtubs were originally made in Cockburn's foundry. Finding 
 
 The hallway of the building has a small display of artifacts related to the foundry and the current family company, FBS aka Falkirk Brass, which is itself originally an Ironheart brass foundry c1890, and now a specialist plumbing and bathroom company. The FBS building has with the support of the family, become the main centre of Ironheart heritage.
 
-![Falkirk Brass display image](FalkirkBrassdisplay.jpg)
+![Falkirk Brass display image](Falkirk-Brass-display.jpg)
 
 Inside the entrance to FBS are a number of framed display relating to the history of the family who run Falkirk Brass and photos of the foundry and some of its staff c1938. Additional exhibits are in process both inside and outside.
 
@@ -36,15 +42,15 @@ Head back up to the canal crossing and turn to the right into Main St, Bainsford
 
 Continuing North and after the next crossing any right turn takes you to towards Dawson Park, donated for public use by the Dawson family of Carron Co. in 1904. In its  middle is a roadway which has at its centre two attractive decorative iron bollards and a the remainder of a public drinking water fountain. at the far end of the park, on Haugh St, is a restored K6 phone kiosk, originally adopted by the Bainsford war Memorial Ass, but which is now in the care of the Friends of Dawson Park. It must be the closest K6 to its origin at Carron Co.'s Mungal Foundry, which was just across the other side of Carron Rd.
 
-![Carron works c1938](carronworks1938.jpg)
+![Carron works c1938](Carron-works-1938.jpg)
 
-Follow Carron Rd and bear left on the old road to Carron works on Stenhouse Rd. Here you have three options:
+Follow Carron Road and bear left on the old road to Carron works on Stenhouse Road. Here you have three options:
 
 1. The clock tower a remnant of the front building which contains a selection of Carronade guns and historic artifacts implanted it its external wall, a part of an original steam engine cylinder made for James Watt in 1766 and an original part of the first furnace made in 1760. A modern wall plaque recalls a visit made to the foundry by Robert Burns.
 2. If you venture to follow the river Carron upriver the Grahamston Arch can be found. It was saved and resited here by Carron Phoenix at its works entrance c2002. It is to joined by a K6 phone box with display info on the Arch and Carron Co.'s many achievements.
 3. The Carron Dams are at the back of the works, accessed either by continuing to follow the river or by walking around the large works wall and follow the Stenhouse Rd which leads to Stenhousemuir. The Dams are a wild natural environment so take good boots. Originally created to supply Carron Co. with a reliable supply of water which powered the iron works prior to the success of Watt's highly efficient steam engine c1790s.
 
-![Carron dams](Carrondams.jpg)
+![Carron dams](Carron-dams.jpg)
 
 Stenhousemuir is next on the map: The Tryst K6 at the junction of King St and Central Drive. To get to that follow Stenhouse Rd to the junction with Main St/King St and turn right. This Carron Co. K6 is dated 1949 with a display of three parts:
 
@@ -61,7 +67,7 @@ Denny is next, turn left out of the kirkyard on the Denny Rd, then left at Denny
 
 You can pick and choose what locations you visit, essentially the Ironheart map is an introduction to a surprising number of surviving buildings and artifacts in the Falkirk area. The addition of displays in K6s and the Ironheart mural and iron art sculpture garden are recent developments carried out voluntarily by Falkirk Made Friends in 2019, in partnership with local firms and Falkirk Council.
 
-![Ironheart book](Ironheartbooklet.1.46pages2024.jpg)
+![Ironheart booklet](Ironheart-booklet-2024.jpg)
 
 Ironheart & the Ironhearts of Iron Town is a fantastic story which offers an alternative means of telling the meaning of Ironheart. its multiple layers of meaning about the products associated with Iron Town offers a variety of ways of comprehending the achievements of Ironheart. The combination of attractive images, real historical locations and products with an amusing tale about finding a new purpose offers insights into the achievements of public use products made in Iron Town aka Ironheart. Starting with the everyday icons of public service the letter post and telephone boxes, whose use is in decline. Whom by a fantastic discovery are enabled to move and decide to return to Irontown, an aim that seemed simple but turned out be complicated by what happens on the way and what the find in Iron Town. How they deal with the situation in Iron town offers some examples to anyone who seeks a new purpose.
 
