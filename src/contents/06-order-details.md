@@ -1,7 +1,7 @@
 ---
 title: Order contact details
 ---
-For further info on the Falkirk area foundries see the
+For further information on the Falkirk area foundries see the
 
 * Falkirk Local History Association website.
 * Facebook page: Falkirk Made Friends & Cast Iron Telephone Box Regeneration.
@@ -16,7 +16,7 @@ Falkirk Museum at Callendar House, has a iron small display.
 The Old Kirk Museum in Kirkintilloch has a good iron display.
 A rare Carron Co. K2 phone kiosk is on exhibit at the Glasgow Transport Museum.
 
-For further info contact Dr Duncan Comrie via email <greensandart@gmail.com>
+For further information contact Dr Duncan Comrie via email <greensandart@gmail.com>
 
 ![Sausages and egg](testing-the-frypan.jpg "L")
 
