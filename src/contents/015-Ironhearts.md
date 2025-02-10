@@ -12,9 +12,11 @@ Next walk towards Grangemouth Rd. and the Ladysmill K6, which is huddled by the 
 
 ![Ironheart mural](Ironheart-iron-art.jpg)
 
+<!--
 <video width="640" height="360" controls="controls">
   <source src="../images/Cockburn-Mural.mp4" type="video/mp4">
 </video>
+-->
 
 ![Ironheart mural in January 2025](Ironheart-mural-2025-01-31.jpg)
 
