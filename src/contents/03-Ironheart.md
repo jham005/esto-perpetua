@@ -12,9 +12,11 @@ Competition is the spur to innovation. Dalderse evolved, by 1819, into Falkirk I
 
 ![Smith & Wellstood portable solid fuel cooker advert 1938. image S&WColumbian](S-and-W-Columbian-stove-1938.png)
 
+<!--
 ![Forth & Clyde & Sunnyside Iron Cos. Camelon](Sunnyside-cooker-1890.jpg)
+-->
 
-![Sunnyside gas cooker and work force 1890](Sunnyside-cooker-1890.jpg)
+![Sunnyside gas cooker and work force 1890](Sunnyside-cooker-and-workforce-1890.jpg)
 
 ![R&A.Main, Camelon, gas cooker 1933](RAMain-Gas-1933-12GHK-Main.jpg)
 
