@@ -11,6 +11,6 @@
   "dependencies": {
     "@fontsource/libre-caslon-text": "^5.1.1",
     "@types/mdast": "^4.0.4",
-    "astro": "^5.1.7"
+    "astro": "^5.2.5"
   }
 }

@@ -19,7 +19,7 @@ The official seal or coat of Arms image of Carron Co, adopted in 1774 revised ov
 If Carron Co. was first of the Ironheart foundries who were the others:
 
 * Falkirk Iron Co. coat of arms c1820; iron a shared partnership, image with symbols of ironfounding. Used 'Falkirk' as casting trade mark.
-* Malcolm Cockburn's Gowanbank Foundry casting trade mark, found mainly on old baths, like an upside down house.
+* Malcolm Cockburn's Gowanbank foundry casting trade mark, found mainly on old baths, like an upside down house.
 * 'CICO', Calendar Iron Co. use a stylised fruit tree as a badge, the foundry was built on an old orchard. Growing anew?
 * Dorrator Iron Co. 1897-c1994. Stove and cooker makers who in the 1920s had a cheeky wee elf running off with a loaf? as their company logo.
 
@@ -45,7 +45,7 @@ Smith & Wellstood 1860-1993 also based Bonnybridge used a dolphin as a company i
 
 Allied Ironfounders badge post 1940 most likely designed by the world famous Raymond Loewy design studio, which also redesigned the Otto & Apollo room heating stoves and the AGA cooker from 1937. The revolutionary Rayburn solid fuel heat storage cooker introduced in 1946 was also designed by Loewy Associates.
 
-Allied ironfounders grew out of the Light castings group of 1922 composed of two Falkirk foundries McDowall Steven & Co. and Malcolm Cockburn's Gowanbank foundry with the Manchester based Planet Foundry and the Shrops based Coalbrookdale foundry. In 1929 this expanded to include 12 foundries six in the Falkirk area. A new AI HQ was built in Graham's Rd., Falkirk, in 1938. AI was sold to Glywed in 1969.
+Allied ironfounders grew out of the Light castings group of 1922 composed of two Falkirk foundries McDowall Steven & Co. and Malcolm Cockburn's Gowanbank foundry with the Manchester based Planet foundry and the Shrops based Coalbrookdale foundry. In 1929 this expanded to include 12 foundries six in the Falkirk area. A new AI HQ was built in Graham's Rd., Falkirk, in 1938. AI was sold to Glywed in 1969.
 
 Glywed. A metals combine which sold off all the AI Falkirk area foundries. Renamed AGA Foodservice in 2001. Only local remaining former AI brand is Falcon Foodservice who make Kitchen equipment cookers, fryers, ovens etc. Based in the former Wang factory Causewayhead, by Stirling University.
 
