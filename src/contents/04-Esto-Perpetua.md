@@ -51,6 +51,6 @@ Glywed. A metals combine which sold off all the AI Falkirk area foundries. Renam
 
 ![Glywed badge](Glywed.jpg)
 
-The most famous literary Apollo stove is in the museum home of Virginia Woolf at Monk's House, Suffolk. In a cobalt green enamel, this being her favourite colour.
+The most famous literary Apollo stove is in the museum home of Virginia Woolf at Monk's House, East Sussex. In a cobalt green enamel, this being her favourite colour.
 
 ![Apollo stove in Monk's House](Apollo-Woolf.jpg)
