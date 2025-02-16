@@ -71,8 +71,9 @@ You can pick and choose what locations you visit, essentially the Ironheart map 
 
 Ironheart & the Ironhearts of Irontown: The Phoenix Awakes, is a fantastic story which offers an alternative means of telling the meaning of Ironheart. its multiple layers of meaning about the products associated with Irontown offers a variety of ways of comprehending the achievements of Ironheart. The combination of attractive images, real historical locations and products with an amusing tale about finding a new purpose offers insights into the achievements of public use products made in Irontown aka Ironheart. Starting with the everyday icons of public service the letter post and telephone boxes, whose use is in decline. Whom by a fantastic discovery are enabled to move and decide to return to Irontown, an aim that seemed simple but turned out be complicated by what happens on the way and what the find in Irontown. How they deal with the situation in Irontown offers an example to anyone who seeks a new purpose.
 
-Image of the Ironhearts.
-Ironhearts of Irontown characters: Lettie the letter box, Kasey the K6 phone kiosk, soapy the bathtub, Rusty the radiator, Tribly the kithcen range cooker, Watty the cast iron frypan, Archie the Grahamston Arch, Georgie the Carron Co clock tower.
+![Image of the Ironhearts](Ironhearts-of-Irontown.png)
+
+Ironhearts of Irontown characters: Lettie the letter box, Kasey the K6 phone kiosk, soapy the bathtub, Rusty the radiator, Tribly the kitchen range cooker, Watty the cast iron frypan, Archie the Grahamston Arch, Georgie the Carron Co clock tower.
 
 The Booklet was supported by Carron Phoenix, a Falkirk based company that arose out of the collapse of Carron Co. in 1982 and is part of the Franke group who make domestic and commercial kitchen sinks and health related products. Booklet first published by Greensand in 2024.
 

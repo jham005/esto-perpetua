@@ -39,7 +39,7 @@ Courtier advertising image. In the 1930s Mitchell, Russell & Co. of Bonnybridge 
 
 Grahamston Iron Co, tall diamond with G inside trade mark. Commonly seen on cast iron rain water and sanitation drainage pipes.
 
-Smith & Wellstood 1860-1993 also based Bonnybridge used a dolphin as a company image. According to legend James Smith survived a shipwreck on the Talantoc Ocean on a raft with laundry basket for protection. A dolphin kept him company and in good spirits until he was rescued.
+Smith & Wellstood 1860-1993 also based Bonnybridge used a dolphin as a company image. According to legend James Smith survived a shipwreck on the Atlantic Ocean on a raft with laundry basket for protection. A dolphin kept him company and in good spirits until he was rescued.
 
 ![Smith & Wellstood dolphin](S-and-W-dolphin.jpg)
 
