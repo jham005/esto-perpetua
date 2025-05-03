@@ -2,7 +2,7 @@
 import "../styles/globals.css";
 import type { MarkdownInstance } from "astro";
 const sections = Object.values(
-  import.meta.glob<MarkdownInstance<{ title: string }>>("../contents/*.md", {
+  import.meta.glob<MarkdownInstance<{ title: string }>>("../pages/*.md*", {
     eager: true,
   })
 );
@@ -29,20 +29,11 @@ const sections = Object.values(
         {
           sections.map((section, i) => (
             <li>
-              <a href={`#section${i}`}>{section.frontmatter.title}</a>
+              <a href={section.url}>{`Chapter ${i + 1}: ${section.frontmatter.title}`}</a>
             </li>
           ))
         }
       </ul>
     </section>
-
-    {
-      sections.map((section, i) => (
-        <section id={`section${i}`}>
-          <h2>{section.frontmatter.title}</h2>
-          <div set:html={section.compiledContent()}/>
-        </section>
-      ))
-    }
   </body>
 </html>

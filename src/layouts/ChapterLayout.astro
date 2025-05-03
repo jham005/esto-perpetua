@@ -1,0 +1,39 @@
+---
+import "../styles/globals.css";
+const { frontmatter } = Astro.props;
+import type { MarkdownInstance } from "astro";
+const sections = Object.values(
+  import.meta.glob<MarkdownInstance<{ title: string }>>("../pages/*.md*", {
+    eager: true,
+  })
+);
+const current = sections.findIndex(section => section.file == Astro.props.file);
+const next = current + 1 === sections.length ? undefined : sections[current + 1];
+const prev = current === 0 ? undefined : sections[current - 1];
+
+console.log(`current=${current}, prev=${prev?.url}, next=${next?.url}`);
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{frontmatter.title}</title>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      { prev && <a href={prev.url}>Previous</a> }
+      { next && <a href={next.url}>Next</a> }
+    </nav>
+    <h1>{frontmatter.title}</h1>
+    <article>
+      <slot />
+    </article>
+
+    <nav>
+      { prev && <a href={prev.url}>Previous</a> }
+      { next && <a href={next.url}>Next</a> }
+      { !next && <a href="/">Home</a> }
+    </nav>
+  </body>
+</html>

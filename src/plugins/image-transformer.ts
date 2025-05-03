@@ -5,8 +5,9 @@ import type { Image } from "mdast";
 export function remarkImageTransformer() {
   return function transformer(tree: Parent) {
     visit(tree, "image", (node: Image) => {
-      if (!node.url.startsWith("../images/"))
-        node.url = "../images/" + node.url;
+      if (!node.url.includes("."))
+        node.url += ".avif";
+      node.url = "../assets/" + node.url;
       const align =
         node.title == "R" ? "right" : node.title == "L" ? "left" : null;
       if (align) {
