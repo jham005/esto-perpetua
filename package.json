@@ -12,6 +12,6 @@
     "@astrojs/mdx": "^4.2.6",
     "@fontsource/libre-caslon-text": "^5.1.1",
     "@types/mdast": "^4.0.4",
-    "astro": "^5.2.5"
+    "astro": "^5.7.13"
   }
 }
