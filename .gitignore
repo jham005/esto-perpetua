@@ -10,3 +10,4 @@ pnpm-debug.log*
 .DS_Store
 .vscode/
 src/assets/orig
+src/assets/unprocessed
