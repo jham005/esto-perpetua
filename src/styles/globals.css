@@ -55,11 +55,13 @@ p, li {
   hyphens: auto;
 }
 
-p:first-child:first-letter {
-  color: var(--toc-colour);
-  font-family: dropCaps;
-  -webkit-initial-letter: 2;
-  initial-letter: 2;
+@supports (initial-letter: 1) or (-webkit-initial-letter: 1) {
+  p:first-child:first-letter {
+    color: var(--toc-colour);
+    font-family: dropCaps;
+    -webkit-initial-letter: 2;
+    initial-letter: 2;
+  }
 }
 
 h1 {
