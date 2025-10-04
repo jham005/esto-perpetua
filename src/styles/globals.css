@@ -58,6 +58,7 @@ p, li {
 p:first-child:first-letter {
   color: var(--toc-colour);
   font-family: dropCaps;
+  -webkit-initial-letter: 2;
   initial-letter: 2;
 }
 
@@ -72,20 +73,19 @@ h1 {
 h2, h3 {
   color: var(--header-colour);
   text-align: left;
+  clear: both;
 }
 
 h2 {
   font-size: calc(1rem + 2vw);
   line-height: calc(1.2rem + 2.4vw);
   margin: 1.6em 0 1em 0;
-  clear: right;
 }
 
 h3 {
   font-size: calc(1rem + 1vw);
   line-height: calc(1.1rem + 1.2vw);
   margin: .5em 0 0 0;
-  clear: right;
 }
 
 img {
